@@ -1,0 +1,43 @@
+<?php
+
+return [
+    'index' => [
+        'videos'            => 'Videos',
+        'image'             => 'Video Image',
+        'title'             => 'Video Title',
+        'title_ar'          => 'Video Title (ar)',
+        'time'              => 'time',
+        'course'             => 'course',
+        'created_at'        => 'Created at',
+        'actions'           => 'Actions',
+        'delete_select'     => 'Delete Select',
+    ],
+    'create' => [
+        'add_new'           => 'Add New Video',
+        'videos'            => 'Videos',
+        'image'             => 'Video Image',
+        'title'             => 'Video Title',
+        'title_ar'          => 'Video Title (Arabic)',
+        'url'               => 'url',
+        'description'       => 'description',
+        'description_ar'    => 'description: (Arabic)',
+        'time'              => 'time',
+        'courses'           => 'course',
+        'save'              => 'Save',
+        'back'              => 'Back',
+    ],
+    'update' => [
+        'edit_video'        => 'Edit Video',
+        'videos'            => 'Videos',
+        'image'             => 'Video Image',
+        'title'             => 'Video Title',
+        'title_ar'          => 'Video Title (Arabic)',
+        'url'               => 'url',
+        'description'       => 'description',
+        'description_ar'    => 'description: (Arabic)',
+        'time'              => 'time',
+        'courses'           => 'course',
+        'update'            => 'Update',
+        'back'              => 'Back',
+    ],
+];
